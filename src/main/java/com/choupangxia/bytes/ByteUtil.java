@@ -2,6 +2,8 @@ package com.choupangxia.bytes;
 
 /**
  * Byte相关公共处理工具
+ * <br/>
+ * 关注公众号：程序新视界；回复"1005"获得更多工具类
  *
  * @author sec
  * @version 1.0
